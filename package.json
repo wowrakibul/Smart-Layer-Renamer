@@ -1,0 +1,17 @@
+{
+    "name": "smart-layer-renamer",
+    "version": "1.0.0",
+    "description": "Figma plugin for smart layer renaming",
+    "main": "code.ts",
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "watch": "tsc -p tsconfig.json --watch"
+    },
+    "devDependencies": {
+        "@figma/plugin-typings": "^1.110.0",
+        "typescript": "^4.9.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
